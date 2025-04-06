@@ -35,5 +35,6 @@ Tech Stack:
 •	Documentation: Swagger
 •	Security: Password Hashing (BCrypt), Token Validation
 •	Design Pattern: Layered Architecture (Controllers → Services → Repositories/DbContext)
+
 My Role:
 "I was fully responsible for designing and implementing the backend system. I created and connected all APIs with the frontend team, handled authentication, database structure, and ensured the entire system was secure, maintainable, and scalable."
