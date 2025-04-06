@@ -36,5 +36,16 @@ Tech Stack:
 •	Security: Password Hashing (BCrypt), Token Validation
 •	Design Pattern: Layered Architecture (Controllers → Services → Repositories/DbContext)
 
+
+## 🔍 App Interface Preview
+
+Here is a quick preview of the application:
+![image](https://github.com/user-attachments/assets/9e8dad57-b34b-4028-8438-21751f1db288)
+
+
+![image](https://github.com/user-attachments/assets/2a8bc641-10fd-47cb-9f95-9df0103c6fcd)
+
+
+
 My Role:
 "I was fully responsible for designing and implementing the backend system. I created and connected all APIs with the frontend team, handled authentication, database structure, and ensured the entire system was secure, maintainable, and scalable."
