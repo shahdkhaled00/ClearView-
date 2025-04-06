@@ -37,15 +37,21 @@ Tech Stack:
 •	Design Pattern: Layered Architecture (Controllers → Services → Repositories/DbContext)
 
 
+My Role:
+"I was fully responsible for designing and implementing the backend system. I created and connected all APIs with the frontend team, handled authentication, database structure, and ensured the entire system was secure, maintainable, and scalable."
+
+
+
 ## 🔍 App Interface Preview
 
 Here is a quick preview of the application:
-![image](https://github.com/user-attachments/assets/9e8dad57-b34b-4028-8438-21751f1db288)
+![image](https://github.com/user-attachments/assets/ae000a3d-7f49-4d1e-b044-1d3350d905f9)
 
 
 ![image](https://github.com/user-attachments/assets/2a8bc641-10fd-47cb-9f95-9df0103c6fcd)
 
 
+![image](https://github.com/user-attachments/assets/2067b616-1167-4d87-8dba-58409a49d0cd)
 
-My Role:
-"I was fully responsible for designing and implementing the backend system. I created and connected all APIs with the frontend team, handled authentication, database structure, and ensured the entire system was secure, maintainable, and scalable."
+
+
